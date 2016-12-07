@@ -32,7 +32,6 @@ Current prototype (OLD DESIGN WITH BIG ENTER)
   - [Pictures of the prototype (OLD MODEL)](http://imgur.com/a/AxiZH)
     - 3 parts: Bottom plate, frame and top plate.
     - Material: PLA (3D-printed)
-    - Print time: 9h on 1mm layer height
   - [ ] 3D-print a new prototype
 - [X] CAD the model (OLD MODEL)
   - [ ] CAD the new model
