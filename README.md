@@ -1,14 +1,14 @@
 # Mininum
 Custom keyboard (Numpad)
 ##The idea
-The idea is to make a minimalistic numpad that you can carry with you anywhere, mainly for people taking their keyboards to/from work every day. In addition to that the mininum formfactor is decided to fit the Planck made by Jack Humbert over at [OLKB](http://olkb.com), as that is my current favorite keyboard.
+The idea is to make a minimalistic numpad that you can carry with you anywhere, mainly for people taking their keyboards to/from work every day. In addition to that the minimum form factor is decided to fit the Planck made by Jack Humbert over at [OLKB](http://olkb.com), as that is my current favorite keyboard.
 
 Current prototype (OLD DESIGN WITH BIG ENTER)
 
 
-##Dimentions
+##Dimensions
 - Height: 14mm (Case only, without silicon feet)
-- Lenght: 81mm
+- Length: 81mm
 - Width: 81mm
 
 ##Layout
@@ -21,11 +21,11 @@ Current prototype (OLD DESIGN WITH BIG ENTER)
 ##Todo
 - [ ]  Check if anyone is interested in a group buy.
   - [ ]  What does it cost?
-  - [ ]  Decide the choices of material used (3D-printed in PLA or watercut out of stainless steel)
-- [ ]  Make a prototype out of watercut stainless steel.
+  - [ ]  Decide the choices of material used (3D-printed in PLA or water cut out of stainless steel)
+- [ ]  Make a prototype out of water cut stainless steel.
   - [ ]  What does it weigh?
   - [ ]  Can i get any kind of finishing/treatment on the plates?
-- [ ]  How can i get bluetooth compatability and will it fit?
+- [ ]  How can i get bluetooth compatibility and will it fit?
 - [ ]  Check if the layout is compatible with different keycap profiles
 - [ ]  Test the layout on a prototype
 - [X] 3D-print a prototype (OLD MODEL)
