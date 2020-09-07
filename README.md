@@ -1,6 +1,7 @@
 # Mininum
 Custom keyboard (Numpad)
-##The idea
+
+## The idea
 The idea is to make a minimalistic numpad that you can carry with you anywhere, mainly for people taking their keyboards to/from work every day. In addition to that the minimum form factor is decided to fit the Planck made by Jack Humbert over at [OLKB](http://olkb.com), as that is my current favorite keyboard.
 
 ## Dimensions
